@@ -53,4 +53,12 @@ For enterprise crawl budget optimisation, bot management, and alignment with Rob
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/uk/
+* **Diagnostic Suite:** https://tools.tavardt.com/uk/
+* **Technical Contact:** https://ag.tavardt.com/uk/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
