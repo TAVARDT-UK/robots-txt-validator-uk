@@ -1,4 +1,4 @@
-# Robots.txt and Crawler Directives Validator | TAVARDT UK
+# Robots.txt and Crawler Directives Validator
 
 [![Robots.txt Validator](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/uk/robots-txt-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ For interactive robots.txt debugging and crawler simulation:
 ## Crawl Governance and Technical SEO Advisory
 
 For enterprise crawl budget optimization, bot management, and alignment with Robots Exclusion Protocol and Search Crawl Standards, contact the specialists at **TAVARDT UK**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
