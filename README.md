@@ -6,8 +6,6 @@
 
 Technical robots.txt inspection tool preventing catastrophic indexation blocks, auditing bot access rules, and enforcing sitemap declarations.
 
-Engineered and maintained by the search engine infrastructure practice at **TAVARDT**.
-
 ***
 
 ## Robots.txt Audit Capabilities
@@ -38,15 +36,6 @@ python robots_validator.py https://example.co.uk -json
 
 ***
 
-## Online Validation Suite
-
-For interactive robots.txt debugging and crawler simulation:
-
-* **Official Robots.txt Validator**
-* **TAVARDT Corporate Portal**
-
-***
-
 ## Crawl Governance and Technical SEO Advisory
 
 For enterprise crawl budget optimisation, bot management, and alignment with Robots Exclusion Protocol and Search Crawl Standards, contact the specialists at **TAVARDT**.
@@ -62,7 +51,7 @@ For enterprise crawl budget optimisation, bot management, and alignment with Rob
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
