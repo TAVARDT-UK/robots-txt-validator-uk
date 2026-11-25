@@ -61,4 +61,9 @@ For enterprise crawl budget optimisation, bot management, and alignment with Rob
 
 ***
 
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
+
+***
+
 © 2026 TAVARDT. All rights reserved.
